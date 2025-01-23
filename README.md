@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-<img align="right" alt="procoder" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="300"/>
+<img align="right" alt="procoder" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="400"/>
 
 - 🔭 I'm a <b>AI-ML Developer</b> 
 - 🌱 Pursuing <b>BCA in AIML, 2nd Year</b>
@@ -28,12 +28,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Deven-Mane1018&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Deven-Mane1018&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deven-Mane1018&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Deven-Mane1018&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=gauri-2903&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gauri-2903&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-2903&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 ### ✍️ Random Dev Quote
